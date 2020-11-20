@@ -1,0 +1,14 @@
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\bin\Debug\netstandard2.0\GradientButtonDemo.deps.json
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\bin\Debug\netstandard2.0\GradientButtonDemo.dll
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\GradientButtonDemo.csprojAssemblyReference.cache
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\GradientButtonDemo.AssemblyInfoInputs.cache
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\GradientButtonDemo.AssemblyInfo.cs
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\bin\Debug\netstandard2.0\ref\GradientButtonDemo.dll
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\bin\Debug\netstandard2.0\GradientButtonDemo.pdb
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\GradientButtonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\GradientButtonDemo.dll
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\ref\GradientButtonDemo.dll
+C:\Users\Dell E7270\source\repos\GradientButtonDemo\GradientButtonDemo\GradientButtonDemo\obj\Debug\netstandard2.0\GradientButtonDemo.pdb
